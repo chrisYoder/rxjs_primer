@@ -1,1 +1,1 @@
-# rxjs_tut
+# RxJs Primer
